@@ -1,2 +1,2 @@
-# datas-algorithms
+# Datas-algorithms
 Algorithms and data structures  implementations.
